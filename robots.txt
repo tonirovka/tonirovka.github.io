@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: tonirovka.github.io.
+Sitemap: https://tonirovka.github.io./sitemap.xml
